@@ -1,5 +1,4 @@
-  <style>
-    body {
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -177,5 +176,3 @@ h5 {
 #whatsapp-btn:hover {
   background-color: #1aa34a; /* Verde mais escuro no hover */
 }
-
-  </style>
