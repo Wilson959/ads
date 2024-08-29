@@ -9,8 +9,8 @@
                     <Linear skipoffset="00:00:04">
                         <Duration>00:00:03</Duration>
                         <VideoClicks>
-                            <ClickThrough id="blog"><![CDATA[https://gplayer-shopina.blogspot.com/]]></ClickThrough>
-                            <CustomClick>https://templateina.org/</CustomClick>
+                            <ClickThrough id="blog"><![CDATA[url]]></ClickThrough>
+                            <CustomClick>#/</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://github.com/NewCeodel2022/Sbstreamfono/raw/main/ads2.mp4]]></MediaFile>
