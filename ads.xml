@@ -13,7 +13,7 @@
                             <CustomClick>#/</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
-                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://cdn.fluidplayer.com/videos/valerian-1080p.mkv]]></MediaFile>
+                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com/content/stream/agl/1920x1080_1xBET_Urvashi_Casino_hindi.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
